@@ -1,0 +1,11 @@
+This repository is a place of my school project: blog web-site with blogs about IT-world
+
+I use:
+  1. Python
+  2. Django
+  3. html
+  4. CSS
+
+Python modules: Django, Froala-Editor, Pillow
+
+Database: sqlite 3
